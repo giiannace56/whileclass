@@ -1,0 +1,13 @@
+C:\Users\giian\Desktop\while class\obj\Debug\netcoreapp3.1\while class.csprojAssemblyReference.cache
+C:\Users\giian\Desktop\while class\obj\Debug\netcoreapp3.1\while class.AssemblyInfoInputs.cache
+C:\Users\giian\Desktop\while class\obj\Debug\netcoreapp3.1\while class.AssemblyInfo.cs
+C:\Users\giian\Desktop\while class\obj\Debug\netcoreapp3.1\while class.csproj.CoreCompileInputs.cache
+C:\Users\giian\Desktop\while class\bin\Debug\netcoreapp3.1\while class.exe
+C:\Users\giian\Desktop\while class\bin\Debug\netcoreapp3.1\while class.deps.json
+C:\Users\giian\Desktop\while class\bin\Debug\netcoreapp3.1\while class.runtimeconfig.json
+C:\Users\giian\Desktop\while class\bin\Debug\netcoreapp3.1\while class.runtimeconfig.dev.json
+C:\Users\giian\Desktop\while class\bin\Debug\netcoreapp3.1\while class.dll
+C:\Users\giian\Desktop\while class\bin\Debug\netcoreapp3.1\while class.pdb
+C:\Users\giian\Desktop\while class\obj\Debug\netcoreapp3.1\while class.dll
+C:\Users\giian\Desktop\while class\obj\Debug\netcoreapp3.1\while class.pdb
+C:\Users\giian\Desktop\while class\obj\Debug\netcoreapp3.1\while class.genruntimeconfig.cache
